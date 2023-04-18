@@ -8,33 +8,28 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download pdf version here](http://ylincn.github.io/files/cv.pdf)
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and additional majors in Physics and Mathematics, HKUST, 2019-2023 (Expected)
+* Exchange student at physics department of ETH Zurich, Spring 2022
+* Ph.D in Physics, Columbia University, Starting from 2023 Fall (Expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 ~ Spring 2023: Final Year Project
+  * Hong Kong University of Science and Technology
+  * Supervisor: Prof. Jingdi Zhang
+* Summer 2020 ~ Fall 2021: UROP Participant
+  * Hong Kong University of Science and Technology
+  * Supervisor: Prof. Jingdi Zhang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Chinese (Native), English (Toefl 110), Japanese (JLPT N1).
+* Programming Languages: C++, Python, Matlab, LaTeX.
 
 Publications
 ======
@@ -42,18 +37,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* HKSAR Government Scholarship Awardee 2020-2021 (November 2020)
+* Lee Hysan Foundation Exchange Scholarship (April 2022)
+* The 17th Epsilon Fund Award (May 2022)
+* Dean's list (All active semesters)
