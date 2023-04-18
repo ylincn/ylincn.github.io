@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Computer Science and additional majors in Physics and Mathematics, HKUST, 2019-2023 (Expected)
 * Exchange student at physics department of ETH Zurich, Spring 2022
-* Ph.D in Physics, Columbia University, Starting from 2023 Fall (Expected)
+* Graduate student in Physics, Columbia University, Starting from 2023 Fall (Expected)
 
 Research experience
 ======
