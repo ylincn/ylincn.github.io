@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download pdf version here](http://ylincn.github.io/files/cv.pdf)
+[Download .pdf version here](http://ylincn.github.io/files/cv.pdf)
 
 
 Education
@@ -23,7 +23,7 @@ Research experience
   * Hong Kong University of Science and Technology
   * Supervisor: Prof. Jingdi Zhang
 * Summer 2020 ~ Fall 2021: UROP Participant
-  * Hong Kong University of Science and Technology
+  * The Hong Kong University of Science and Technology
   * Supervisor: Prof. Jingdi Zhang
   
 Skills
@@ -39,7 +39,8 @@ Publications
   
 Awards
 ======
-* HKSAR Government Scholarship Awardee 2020-2021 (November 2020)
-* Lee Hysan Foundation Exchange Scholarship (April 2022)
+* Finalist, UROP Award (April 2023)
 * The 17th Epsilon Fund Award (May 2022)
+* Lee Hysan Foundation Exchange Scholarship (April 2022)
+* HKSAR Government Scholarship Awardee 2020-2021 (November 2020)
 * Dean's list (All active semesters)
